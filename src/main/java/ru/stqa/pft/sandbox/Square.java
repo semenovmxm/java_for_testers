@@ -1,7 +1,7 @@
 package ru.stqa.pft.sandbox;
 
 public class Square {
-    double l;
+    public double l;
 
     public Square(int l) {
         this.l = l;
